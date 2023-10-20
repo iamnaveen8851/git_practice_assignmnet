@@ -20,4 +20,6 @@ function checkPrime(num){
         console.log("Isn't Prime");
     }
 }
+
 checkPrime(13)
+
